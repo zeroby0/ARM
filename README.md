@@ -5,6 +5,7 @@ All my assignments and other files related to ARM-2018 course. The [assignments 
 ## TOC
 - [Assignment 1](#assignment-1)
 - [Assignment 2](#assignment-2)
+- [Assignment 3](#assignment-3)
 - [How to setup KEIL](#setting-up-a-new-keil-mdk-ide-project)
 
 
@@ -115,6 +116,10 @@ end
 stop B stop ; stop program
 ```
 
+
+## Assignment 3
+
+[Answer](./assignments/src/3/3.md)
 
 
 
